@@ -1,0 +1,33 @@
+IPN (Мгновенное платёжное уведомление) callback-ссылки для платёжных систем при автоматическом обмене.
+--------------------------------------------------------
+
+PayPal:         https://вашсайт.ру/payment.php?b=check&c=paypal
+
+Skrill:         https://вашсайт.ру/payment.php?b=check&c=skrill
+
+WebMoney:       https://вашсайт.ру/payment.php?b=check&c=webmoney&d=result
+	        https://вашсайт.ру/payment.php?b=check&c=webmoney&d=success
+	        https://вашсайт.ру/payment.php?b=check&c=webmoney&d=fail
+
+Payeer:         https://вашсайт.ру/payment.php?b=check&c=payeer
+
+Perfect Money:  https://вашсайт.ру/payment.php?b=check&c=perfectmoney&d=status
+	        https://вашсайт.ру/payment.php?b=check&c=perfectmoney&d=complete
+	        https://вашсайт.ру/payment.php?b=check&c=perfectmoney&d=failed
+
+OKPay:          https://вашсайт.ру/payment.php?b=check&c=okpay
+
+AdvCash:        https://вашсайт.ру/payment.php?b=check&c=advcash&d=success
+	        https://вашсайт.ру/payment.php?b=check&c=advcash&d=fail
+	        https://вашсайт.ру/payment.php?b=check&c=advcash&d=status
+
+Entromoney:     https://вашсайт.ру/payment.php?b=check&c=entromoney&d=status
+	        https://вашсайт.ру/payment.php?b=check&c=entromoney&d=success
+	        https://вашсайт.ру/payment.php?b=check&c=entromoney&d=fail
+
+Payza:          https://вашсайт.ру/payment.php?b=check&c=payza&d=results
+                https://вашсайт.ру/payment.php?b=check&c=payza&d=cancel
+
+SolidTrust Pay: https://вашсайт.ру/payment.php?b=check&c=solidtrustpay&d=notify
+		https://вашсайт.ру/payment.php?b=check&c=solidtrustpay&d=confirm
+		https://вашсайт.ру/payment.php?b=check&c=solidtrustpay&d=return
